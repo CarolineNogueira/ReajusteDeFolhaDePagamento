@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reajuste de folha de pagamento", "reajuste de folha de pagamento\reajuste de folha de pagamento.csproj", "{6BBA4015-A7E5-4682-A9D2-4386A48EABAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBA4015-A7E5-4682-A9D2-4386A48EABAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBA4015-A7E5-4682-A9D2-4386A48EABAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBA4015-A7E5-4682-A9D2-4386A48EABAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBA4015-A7E5-4682-A9D2-4386A48EABAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D4E8D2-FE84-403D-BF14-9EF923AC5A95}
+	EndGlobalSection
+EndGlobal
